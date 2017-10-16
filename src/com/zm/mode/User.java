@@ -1,4 +1,4 @@
-package spring_jar;
+package com.zm.mode;
 
 public class User {
 	private String name;
